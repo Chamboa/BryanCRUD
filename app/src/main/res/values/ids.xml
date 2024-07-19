@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtNombre" type="id" />
+    <item name="loginTitle" type="id" />
+    <item name="profileImage" type="id" />
+    <item name="txtDIM" type="id" />
+    <item name="txtPassword" type="id" />
+    <item name="heartIcon" type="id" />
+    <item name="starsRow" type="id" />
+    <item name="star2" type="id" />
+    <item name="star3" type="id" />
+    <item name="star1" type="id" />
+</resources>
