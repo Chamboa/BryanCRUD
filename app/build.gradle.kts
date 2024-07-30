@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "jonathan.gamboa.bryancrud"
+    namespace = "jonathan.javier.bryancrud"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "jonathan.gamboa.bryancrud"
+        applicationId = "jonathan.javier.bryancrud"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -52,4 +52,5 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+    implementation("com.oracle.database.jdbc:ojdbc6:11.2.0.4")
 }
