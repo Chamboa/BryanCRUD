@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import jonathan.javier.bryancrud.R
-import jonathan.gamboa.bryancrud.ver_ppacientes
+import jonathan.javier.bryancrud.ver_ppacientes
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
